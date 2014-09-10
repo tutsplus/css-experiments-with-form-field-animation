@@ -256,6 +256,10 @@ body{
   transition: all .55s ease;
 }
 
+	.container-4 input#search:focus, .container-4 input#search:active{
+    outline:none; 
+	}
+	
   /* ANIMATION EFFECT */
   .container-4:hover button.icon, .container-4:active button.icon, .container-4:focus button.icon{
     outline:none;
