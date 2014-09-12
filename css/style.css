@@ -24,7 +24,7 @@ body{
   font-size: 10pt;
   float: left;
 	color: #262626;
-  padding-left: 45px;
+  padding: 0 15px 0 45px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -79,7 +79,7 @@ body{
   font-size: 10pt;
   float: left;
 	color: #262626;
-  padding-left: 35px;
+  padding: 0 15px 0 35px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -142,7 +142,7 @@ body{
   font-size: 10pt;
   float: left;
 	color: #262626;
-  padding-left: 45px;
+  padding: 0 15px 0 45px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -210,7 +210,7 @@ body{
   font-size: 10pt;
   float: left;
 	color: #fff;
-  padding-left: 15px;
+  padding: 0 15px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
